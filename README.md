@@ -13,18 +13,30 @@
 
 ## 👋 Introduction
 
-**Smart Contract Security Researcher**  
-Specializing in identifying critical vulnerabilities in DeFi protocols through competitive audits on leading platforms.
-My work consistently ranks in the top placements across public contests, demonstrating both technical depth and creativity in attack surface exploration.
-I focus on:
+**Smart Contract Security Researcher — Cross-Chain & Omnichain Specialist**
 
-🕵️ Deep protocol analysis (DEXs, lending, bridges, restaking, L2 infra)
+I audit smart contracts with a focus on **cross-chain messaging, omnichain tokens, and the DeFi primitives that sit on top of them.** My work spans private engagements with established protocols and top placements in competitive audits on Sherlock, Code4rena, and Immunefi — including **two 1st-place finishes** and consistent top-10 results.
 
-🔒 Exploitable real-world scenarios with practical PoCs
+### What I Specialize In
 
-📈 Clear, actionable reports that help teams secure their protocols before mainnet launch
+🌐 **LayerZero / Omnichain Security** — OFT and OApp implementations, message verification, peer configuration, gas/lzReceive accounting, replay and ordering attacks, and the subtle failure modes that emerge when token supply and state are split across chains. My private audit of **Ethena's OFT contracts** is a recent example.
 
-Currently available for private audits, competitive engagements, and collaborations with security-focused teams.
+🔁 **Cross-Chain DeFi Composition** — Most omnichain bugs don't live in the messaging layer itself; they live in how AMMs, vaults, staking, and incentive systems interact with bridged value. I've audited **DEXs (DragonSwap, Nima Labs RFQ, Oku Trade), gauge/vault systems (HydrexFi + Morpho, Euler integration), staking (Neutrl Protocol — 1st place, NARA, DragonSwap), and RWA protocols (Cian Bondify, Cian Staple)** — exactly the surface area that breaks first when an OApp is layered on top.
+
+🕵️ **Deep Protocol Analysis** — DEXs, lending, restaking, L2 infrastructure, incentive/emission systems, and routing logic.
+
+🔒 **Exploitable Real-World Scenarios** — practical PoCs for issues that actually move funds, not theoretical edge cases.
+
+📈 **Clear, Actionable Reports** — written for engineers, prioritized by exploitability, and structured so fixes are obvious.
+
+### Track Record at a Glance
+
+- 🥇 **2× 1st Place** — Sherlock (Oku Trade Order Types, Neutrl Protocol)
+- 🏅 **Top-10 finishes** across Immunefi, Sherlock, and Code4rena
+- 🔐 **20+ private audits** covering omnichain tokens, AMMs, vaults, staking, RWA, and incentive systems
+- 💰 **$15K+** earned across Sherlock contests alone (rank #522 all-time)
+
+Currently available for private audits, competitive engagements, and collaborations with security-focused teams — particularly those building **cross-chain or LayerZero-integrated protocols.**
 
 ---
 
@@ -50,7 +62,7 @@ Currently available for private audits, competitive engagements, and collaborati
 | [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)              | February 2025 | Code4rena    | Solidity     | 🎖️ 9th Place  | [Leaderboard](https://code4rena.com/audits/2025-02-thorwallet)                                      |
 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter/leaderboard/#top) | February 2025 | Immunefi | Solidity   | 🎖️ 6th Place  | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-butter/leaderboard/#top)            |
 | [Core Contracts (RAAC)](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj) | January 2025 | CodeHawks | Solidity | NA | [Leaderboard](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj)                       |
-| [Alchemix Transmuter](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx) | December 2024 | CodeHawks | Solidity | NA| [Leaderboard](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx)                       |
+| [Alchemix Transmuter](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx) | December 2024 | CodeHawks | Solidity | NA | [Leaderboard](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx)                       |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)              | December 2024 | Code4rena    | Solidity     | NA | [Leaderboard](https://code4rena.com/audits/2024-12-secondswap)                                      |
 
 ---
@@ -80,5 +92,7 @@ Currently available for private audits, competitive engagements, and collaborati
 | **Planchet**      | Audit of smart contracts              |                          |
 | **Pulse**         | Audit of smart contracts              |                          |
 | **HydrexFi**      | Asynchronous Gauges                   | Gauge                    |
+| **Ethena**        | Tempo OFT                             | LayerZero / Cross-chain  |
+| **Blackhole**     | CL Plugin & JIT                       | DEX                      |
 
 ---
