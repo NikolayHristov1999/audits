@@ -49,9 +49,9 @@ Currently available for private audits, competitive engagements, and collaborati
 | [Yeet](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top) | March 2025 | Immunefi   | Solidity     | 🎖️ 9th Place  | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top)              |
 | [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)              | February 2025 | Code4rena    | Solidity     | 🎖️ 9th Place  | [Leaderboard](https://code4rena.com/audits/2025-02-thorwallet)                                      |
 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter/leaderboard/#top) | February 2025 | Immunefi | Solidity   | 🎖️ 6th Place  | [Leaderboard](https://immunefi.com/audit-competition/audit-comp-butter/leaderboard/#top)            |
-| [Core Contracts (RAAC)](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj) | January 2025 | CodeHawks | Solidity | 🎖️ 265th Place | [Leaderboard](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj)                       |
-| [Alchemix Transmuter](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx) | December 2024 | CodeHawks | Solidity | 🎖️ 31st Place | [Leaderboard](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx)                       |
-| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)              | December 2024 | Code4rena    | Solidity     | 🎖️ 66th Place | [Leaderboard](https://code4rena.com/audits/2024-12-secondswap)                                      |
+| [Core Contracts (RAAC)](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj) | January 2025 | CodeHawks | Solidity | NA | [Leaderboard](https://codehawks.cyfrin.io/contests/cm5vbyum90000ffs0xblmb4gj)                       |
+| [Alchemix Transmuter](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx) | December 2024 | CodeHawks | Solidity | NA| [Leaderboard](https://codehawks.cyfrin.io/contests/cm4mmjdju0000oni7kpb72tkx)                       |
+| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)              | December 2024 | Code4rena    | Solidity     | NA | [Leaderboard](https://code4rena.com/audits/2024-12-secondswap)                                      |
 
 ---
 
